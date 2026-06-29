@@ -2,7 +2,8 @@
 
 ## 교육 목표
 
-Power Apps의 개념과 특징을 이해하고, Canvas App과 Model-driven App의 차이점을 학습합니다. 또한 Power Platform의 구성 요소와 Power Apps 개발 환경을 이해하여 이후 실습을 위한 기초를 다집니다.
+Power Apps의 개념과 특징을 이해하고, Canvas App과 Model-driven App의 차이점을 학습합니다. 
+또한 Power Platform의 구성 요소와 Power Apps 개발 환경을 이해하여 이후 실습을 위한 기초를 다집니다.
 
 ---
 
